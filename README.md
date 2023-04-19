@@ -23,14 +23,14 @@ I am a Software Developer
 
 - :seedling: I’m looking to collaborate on OpenSource Projects
 
-- 👨‍💻 All of my projects are available at https://github.com/amitj12
+- 👨‍💻 All of my projects are available a 
 
 - :zap: In my free time, I solve problems on hackerrank.
 
--  ⚡I play Cricket.
+-   
 
 
-- :mailbox:How to reach me: amitjadhav982394@gmail.com
+- :mailbox:How to reach me:  
 
 
 ---
